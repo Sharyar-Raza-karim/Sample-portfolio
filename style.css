@@ -237,7 +237,7 @@ height: 100px;
     padding-top: 20px;
 }
 .ui-ux i{
- margin-left: 200px;
+ margin-left: 100px;
 }
 .front{
     display: flex;
@@ -248,7 +248,7 @@ height: 100px;
 
 }
 .front i{
-    margin-left: 150px;
+    margin-left: 100px;
 }
 .mobile{
     display: flex;
