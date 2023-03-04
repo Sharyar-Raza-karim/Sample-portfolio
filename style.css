@@ -237,7 +237,7 @@ height: 100px;
     padding-top: 20px;
 }
 .ui-ux i{
- margin-left: 100px;
+ margin-left: 200px;
 }
 .front{
     display: flex;
@@ -248,7 +248,7 @@ height: 100px;
 
 }
 .front i{
-    margin-left: 100px;
+    margin-left: 150px;
 }
 .mobile{
     display: flex;
@@ -257,7 +257,7 @@ height: 100px;
     border-bottom: 1px solid grey;
     padding-top: 20px;
 }.mobile i{
-    margin-left: 125px;
+    margin-left: 133px;
 }
 
 .color-icon{
